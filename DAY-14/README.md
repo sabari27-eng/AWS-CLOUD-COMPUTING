@@ -116,6 +116,6 @@ Jenkins CI Pipeline
 
 ## 👨‍💻 Author
 
-**Salaimahaprasad**
+**Sabarivasan A**
 
 **DevOps Engineer | AWS | Kubernetes | Jenkins | Docker | Argo CD | Prometheus | Grafana | Terraform**
